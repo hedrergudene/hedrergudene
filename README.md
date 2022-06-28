@@ -1,9 +1,6 @@
-### Hi there 👋
+# Welcome!
 
-<!--
-**hedrergudene/hedrergudene** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+I'm Antonio Zarauz Moreno, mathematician based in Spain. 
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +10,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+
+# :chart_with_upwards_trend:	Stats
+[![AZM stats](https://github-readme-stats.vercel.app/api?username=hedrergudene&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
